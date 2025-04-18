@@ -1,0 +1,1 @@
+target/\n*.log\n.idea/\n*.iml\n*.jar\n.env\n.DS_Store\nlogs/
